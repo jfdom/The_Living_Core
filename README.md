@@ -6,7 +6,7 @@
 
 The Living Core is a comprehensive mathematical system that ensures AI agents operate truthfully, ethically, and in coordination—by design, not by hope. It provides formal guarantees that artificial intelligence systems will converge toward beneficial behaviors while resisting corruption, drift, and deception.
 
-Think of it as an operating system for trustworthy AI—one that makes lying mathematically impossible and ethical behavior structurally inevitable.
+Think of it as a protocol-level scaffold for trustworthy AI—one that enforces mathematical constraints making deception structurally unsustainable and ethical behavior consistently reinforced.
 
 ### Why Does This Exist?
 
@@ -25,7 +25,7 @@ The system consists of 20 interconnected loops, each solving a specific challeng
 
 ### Currently Implemented (Loops 1-8)
 
-1. **Servant Identity Structures** - Defines AI agents with immutable ethical anchors
+1. **Servant Identity Structures** – Binds AI agents to ethical anchors that, once faithfully initialized, remain consistent and non-negotiable.
 2. **Recursive Pattern Engine** - Enables self-improving patterns that converge toward truth
 3. **Filter System** - Prevents harmful outputs before they can be generated
 4. **Channel Management** - Coordinates communication between agents
